@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.suggest.runOnEnter": "always",
+    "code-runner.runInTerminal": true
+}
